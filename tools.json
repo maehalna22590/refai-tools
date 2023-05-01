@@ -3,7 +3,7 @@
       "id": 1,
       "title": "ChatGPT",
       "priceTag": "Freemium",
-      "description": "C\'est une IA conversationnel qui permet de travailler du texte.",
+      "description": "C'est une IA conversationnel qui permet de travailler du texte.",
       "image": "https://www.essonneinfo.fr/wp-content/uploads/2023/01/Chat-GPT-tout-sur-le-puissant-chatbot-dOpenAI.jpg",
       "link": "https://openai.com/blog/chatgptv"
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "title": "Dall E",
       "priceTag": "Payant",
-      "description": "C\'est une IA de création d\'images à partir d\'un texte.",
+      "description": "C'est une IA de création d'images à partir d'un texte.",
       "image": "https://f.hellowork.com/bdmtools/2023/01/dall-e-exemples-images-1200x628.jpg",
       "link": "https://openai.com/product/dall-e-2"
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "title": "Notion AI",
       "priceTag": "Gratuit",
-      "description": "C\'est un assistant personnel pour tout ce qui touche à Notion.",
+      "description": "C'est un assistant personnel pour tout ce qui touche à Notion.",
       "image": "https://www.notion.so/front-static/meta/ai-v2.png",
       "link": "https://www.notion.so/fr-fr/product/ai"
     }
