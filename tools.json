@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Nom de l'outil 1",
+      "description": "Description de l'outil 1",
+      "image": "https://example.com/image1.jpg",
+      "link": "https://example.com/tool1"
+    },
+    {
+      "id": 2,
+      "title": "Nom de l'outil 2",
+      "description": "Description de l'outil 2",
+      "image": "https://example.com/image2.jpg",
+      "link": "https://example.com/tool2"
+    }
+  ]
+  
